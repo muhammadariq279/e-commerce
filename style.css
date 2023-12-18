@@ -10,12 +10,12 @@ body {
   background-size: cover;
   margin: 0;
   height: 100%;
-  background-image: url(/img/camp.jpg);
+  background-image: url(/camp.jpg);
   padding: 0;
 }
 
 .body {
-  background-image: url(/img/mike.jpg);
+  background-image: url(/mike.jpg);
 }
 
 .body-c {
